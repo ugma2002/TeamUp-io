@@ -16,7 +16,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto animate-fade-in">
           {/* Main heading */}
           <h1 className="text-hero mb-6">
-            Collaborate. Build. Launch.
+            Welcome to TeamForge
           </h1>
           
           {/* Subheading */}
